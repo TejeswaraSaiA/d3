@@ -1,2 +1,2 @@
 # d3
-d3 practices
+this is the personal space to study d3.js with [mbostock]'s blog.
