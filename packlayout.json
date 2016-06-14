@@ -1,5 +1,5 @@
 {
-  'name': 'All', value : 128057352,
+  'name': 'All', 'value' : 128057352,
   'children': [
     {'name': 'dokyodo', 'value': 13159388},
     {'name': 'osakaboo', 'value': 8865245},
