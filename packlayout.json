@@ -1,15 +1,15 @@
 {
-  'name': 'All', 'value' : 128057352,
-  'children': [
-    {'name': 'dokyodo', 'value': 13159388},
-    {'name': 'osakaboo', 'value': 8865245},
-    {'name': 'aichihyun', 'value': 7410719},
-    {'name': 'naganohyun', 'value': 2152449,
-     'children': [
-        {'name': 'naganosi', 'value': 381511},
-        {'name': 'matsumotosi', 'value': 243037},
-        {'name': 'shiojirisi', 'value': 67670}
+  "name": "All", "value" : 128057352,
+  "children": [
+    {"name": "dokyodo", "value": 13159388},
+    {"name": "osakaboo", "value": 8865245},
+    {"name": "aichihyun", "value": 7410719},
+    {"name": "naganohyun", "value": 2152449,
+     "children": [
+        {"name": "naganosi", "value": 381511},
+        {"name": "matsumotosi", "value": 243037},
+        {"name": "shiojirisi", "value": 67670}
       ]
     }
   ]
-};
+}
